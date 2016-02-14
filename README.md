@@ -2,13 +2,13 @@
 
 # Usage
 
-Send a multipart data
+Send a multipart data request
 
 http://www.APP_URL/api/fileanalyse/
 
 # Result
 
-Get back the file size and metadata
+Get the file size and metadata
 
 ```js
 {
